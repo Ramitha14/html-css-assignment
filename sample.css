@@ -1,0 +1,11 @@
+body
+{
+    padding-right: 500px;
+    padding-left: 300px;
+}
+div
+{
+    padding:10px;
+    border:solid 1px lightblue;
+    text-align: center;
+}
